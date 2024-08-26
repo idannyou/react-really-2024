@@ -1,6 +1,8 @@
 ## Custom Dev Tools
 
-The idea behind using a custom dev tool is to reproduce settings that maybe hard to create manually. By doing so, different tests scenerios can be re-created and tested.
+The purpose of using a custom DevTool is to easily replicate configurations that would be difficult or time-consuming to create manually. By automating these setups, you can efficiently recreate and test various scenarios, especially complex or edge cases.
+
+When combined with Cypress or other end-to-end (E2E) testing libraries, this approach enables you to thoroughly test scenarios that might be challenging to cover using traditional testing methods. This ensures a more comprehensive validation of your application’s behavior under different conditions.
 
 ### Logging in as different personas
 
