@@ -1,0 +1,2 @@
+- This repo demonstrates that useContext re-renders all the components that use it.
+- zustand only re-renders the component that consumes the changing state.
