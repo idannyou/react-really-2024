@@ -1,4 +1,9 @@
-React Rally Advanced React Workshop
+## How to run it?
+
+1. `npm install`
+1. `npm run start`
+
+# React Rally Advanced React Workshop
 
 ## Packages
 

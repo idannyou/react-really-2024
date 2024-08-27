@@ -1,3 +1,8 @@
+## How to run it?
+
+1. `npm install`
+1. `npm run dev`
+
 ## Counter App
 
 The purpose of using zustand instead of React's useContext is the simplicity in managing client side state and the performance implications.
